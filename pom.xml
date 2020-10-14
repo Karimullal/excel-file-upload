@@ -12,6 +12,7 @@
 	<groupId>com.excel.app</groupId>
 	<artifactId>excel-file-upload</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
 	<name>excel-file-upload</name>
 	<description>Excel upload project for Spring Boot</description>
 
